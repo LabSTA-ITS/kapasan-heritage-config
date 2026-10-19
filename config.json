@@ -11,13 +11,15 @@
   },
 
   "update": {
-    "latest_version_code": 2,
-    "latest_version_name": "1.1.0",
+    "latest_version_code": 3,
+    "latest_version_name": "1.1.1",
     "url": ""
   },
 
   "about": {
     "body_id": "",
-    "body_en": ""
+    "body_en": "",
+    "credits_id": "",
+    "credits_en": ""
   }
 }

@@ -14,6 +14,7 @@ Keep this repository public and put no private information in it.
 | `update.latest_version_code` | Number of the newest app version (the `versionCode` in the app). A notice appears only on phones with a lower number and only when `url` is filled. |
 | `update.latest_version_name` | Text shown in the notice, for example `1.2.0`. |
 | `update.url` | Where to download the new version (Google Play or GitHub release). Must be https on play.google.com, github.com or labsta-its.org. |
+| `about.credits_id`, `about.credits_en` | Replaces the credits line on the About screen, for example `Dikembangkan oleh Nama A dan Nama B, Institut Teknologi Sepuluh Nopember (ITS), Surabaya.` (up to 300 characters). Leave empty to keep the built-in line. The copyright and third-party lines are built into the app and cannot be changed from here. |
 | `about.body_id`, `about.body_en` | Replaces the description on the About screen (up to 1,500 characters). Leave empty to keep the built-in text. Credits and copyright stay built into the app. |
 
 If a value is empty, invalid, or the file cannot be read, the app uses its built-in defaults.

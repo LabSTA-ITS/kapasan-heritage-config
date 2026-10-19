@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+
+  "site_url": "https://www.labsta-its.org/kapasan-heritage",
+  "survey_id_url": "https://forms.gle/K3fyBsMbTBTNsAWF7",
+  "survey_en_url": "https://forms.gle/LtXnWTrNLEqbtepB7",
+
+  "announcement": {
+    "text_id": "",
+    "text_en": ""
+  },
+
+  "update": {
+    "latest_version_code": 2,
+    "latest_version_name": "1.1.0",
+    "url": ""
+  },
+
+  "about": {
+    "body_id": "",
+    "body_en": ""
+  }
+}
